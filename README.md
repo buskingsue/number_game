@@ -13,7 +13,7 @@
 이 프로젝트는 [GitHub Pages]를 통해 배포됩니다.  
 `main` 브랜치의 루트에 있는 파일들이 자동으로 공개됩니다.
 
-[웹페이지 바로가기](https://your-website-url.com)
+[웹페이지 바로가기](https://buskingsue.github.io/number_game/)
 
 ![웹페이지 스크린샷](https://your-website-url.com/screenshot.png)
 
