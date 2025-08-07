@@ -10,7 +10,7 @@
 
 ## 배포
 
-이 프로젝트는 [GitHub Pages](https://pages.github.com/)를 통해 배포됩니다.  
+이 프로젝트는 [GitHub Pages]([https://pages.github.com/](https://buskingsue.github.io/number_game/))를 통해 배포됩니다.  
 `main` 브랜치의 루트에 있는 파일들이 자동으로 공개됩니다.
 
 ## 직접 실행하기
