@@ -15,7 +15,7 @@
 
 [웹페이지 바로가기](https://buskingsue.github.io/number_game/)
 
-![웹페이지 스크린샷](https://github.com/buskingsue/number_game/blob/main/numbers.png)
+![웹페이지 스크린샷](https://github.com/buskingsue/number_game/blob/main/game.png)
 
 ## 라이선스
 
